@@ -12,6 +12,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
-Open a broswer and enter localhost:8080 in the address bar.
+### Running
+Open a browser and enter localhost:8080 in the address bar.
 Query a city which will be appended to a list of displayed cities.
 Each city has a map and its weather (temperature, humidity, pressure) displayed in charts.
