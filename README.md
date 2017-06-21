@@ -1,25 +1,17 @@
-# ReduxSimpleStarter
+# Weather App
+An app that displays the weather of a city (cities) that is queried.
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+![alt text](images/weather-app-ex.png "Displays weather of New York and San Francisco")
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
+### Installation
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/LawynnJana/weather-app.git
+> cd weather-app
 > npm install
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+### Running
+Open a broswer and enter localhost:8080 in the address bar. In the search bar, query a city which will be appended to a list to display. Each city has a map and its weather (temperature, humidity, pressure) displayed in charts.
